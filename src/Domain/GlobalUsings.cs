@@ -1,0 +1,6 @@
+﻿global using CleanArchitectureAndIISServer.Domain.Common;
+global using CleanArchitectureAndIISServer.Domain.Entities;
+global using CleanArchitectureAndIISServer.Domain.Enums;
+global using CleanArchitectureAndIISServer.Domain.Events;
+global using CleanArchitectureAndIISServer.Domain.Exceptions;
+global using CleanArchitectureAndIISServer.Domain.ValueObjects;
